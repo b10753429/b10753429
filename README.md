@@ -6,7 +6,4 @@
 </div>
 
 <div>
-  <p>
-    I'm a web developer
-  </p>
 </div>
